@@ -74,7 +74,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 
-
+## redux  （React 必会）
 ## redux  （三个核心概念）
 1、action 触发行为（主要作用：触发数据改变的行为）
 2、reducer  （作用：改变store中的数据）
